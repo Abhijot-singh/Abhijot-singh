@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhijot-singh
-- 👀 I’m interested in web devloprment
+- 👀 I’m interested in Web and Java devloprment
 - 🌱 I’m currently learning data structure and algorithms
-- 💞️ I’m looking to collaborate on anything project that sounds interesting
+- 💞️ I’m looking to collaborate on anything project that's interesting
 - 📫 How to reach me linkedin(https://www.linkedin.com/in/abhijot-bhumra-0570b6204/)
 
 <!---
